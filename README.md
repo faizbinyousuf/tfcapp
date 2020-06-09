@@ -1,4 +1,5 @@
 # tfcapp
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+a container tracking app for Mr.Sheeth Haris
+>>>>>>> 7d41d35df33ee6f7154662c90ab24bb0daa1b30d
